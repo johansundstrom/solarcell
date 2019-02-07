@@ -8,7 +8,7 @@
 * Solenergi
 * Anläggningen
 * El-konsumtion
-* Bidrag, bygglov och elsäkerhet
+* Bidrag, ROT, bygglov och elsäkerhet
 * Kostnad/förtjänst
 
 ### Uppmaningen - Argumenten
@@ -24,13 +24,47 @@
     - Biogas - växters omvandling av solenergi til kemi
     - Geotermisk - markvärme (bergvärme)
  
- * Energin omvandlas till el och distribueras 
-
-* Energin från ljus blir el
+* Energin omvandlas till el och distribueras 
+* Vi är i händerna på Internationella bolag
+* Vi vill ta och ha kontroll
+ 
+### Solenergi
+* Solens värme och dess fotoner
+    - Solens strålar absorberas mot svart - vattenvärme
+    - Vaccumrörssolfångare - tryck/rör i rör/kollector - vattenvärme
+    - Solpanel - fotovoltaisk effekt - elektrisk effekt
+* Fotovoltaisk effekt - PN, spärrskikt, fotoner, ökad potential
 * Photovoltaic effect (PV)
-* En cell ger ca 0.5-0.6V
+* Energin från ljus blir el
+* Spänning mäts i Volt och betecknas U
+* Jämför med vatten
+* En cell ger ca 0.47-0.6V
 * Monokristallina (mörk) är mer effektiva men dyrare (ca 15-20% effektivitet)
 * Polykristallina (blå) ca 13-16% verklningsgrad
+* Verkningsgrad - ca 15-20% blir el (fotoner)
 * Tunnfilm (flexibel) halva verkningsgraden
-* Vid höge temperatus minskar effektiviteten
-* De åldras
+* Vid högre temperatur minskar effektiviteten
+* Åldras - 25 år (75-80% verkningsgrad från ny)
+* Solpanel är flera celler i en ram
+
+### Anläggningen
+* Solpaneler
+* Fästen
+* Bypassdioder
+* Kablar
+* Kontakter
+* Inverter
+* Brytare
+* Säkringar
+* Energisensor
+* kablar
+
+### El-konsumtion
+* LED
+* Timer
+* Övervakning
+* Elförbrukning
+* Hur synliggöra elförbrukning
+* Påverkbar?
+* Elskling
+* Min resa: 30MWh/år till 8 (1kWh = 1kr)
