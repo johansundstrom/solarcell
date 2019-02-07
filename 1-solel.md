@@ -68,3 +68,10 @@
 * Påverkbar?
 * Elskling
 * Min resa: 30MWh/år till 8 (1kWh = 1kr)
+
+### Bidrag, ROT, bygglov och elsäkerhet
+* Anläggning på icke näringsverksamhet kallas mikroproduktionsanläggning (sol/vind/vatten)
+* ROT - Rotavdrag, max 30%,	50 000kr/år/person
+* Elleverantören köper el som inte konsumerats
+* Ett elcertifikat för varje megawattimme som du producerar - kan säljas - SÖK
+* Solcellsstöd
