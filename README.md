@@ -1,12 +1,42 @@
 # solarcell
 Solarcell Tutorial
 
-## Solcell
-* Energin från ljus blir el
-* Photovoltaic effect (PV)
-* En cell ger ca 0.5-0.6V
-* Monokristallina (mörk) är mer effektiva men dyrare (ca 15-20% effektivitet)
-* Polykristallina (blå) ca 13-16% verklningsgrad
-* Tunnfilm (flexibel) halva verkningsgraden
-* Vid höge temperatus minskar effektiviteten
-* De åldras
+## 1 - Vi väljer Solel
+* Uppmaningen - Argumenten
+* Ta kontroll
+* Solenergi
+* Anläggningen
+* El-konsumtion
+* Bidrag, bygglov och elsäkerhet
+* Kostnad/förtjänst
+
+## 2 - Vi optimerar solceller
+* Förluster
+* Byggfel
+* Lär av andra
+* Oberoende information
+* Tänk på...
+
+## 3 - Vi räknar
+* Effekt
+* Energi
+* El-priser
+* Vinst
+
+## 4 - Vi bygger 
+* Analysera dina behov
+* Din anläggning 
+* Räkna hem investeringen
+* Begär offert
+* Testinköp
+
+## 5 - Vi lagrar energi
+* Lagra energi
+* Behov
+* Kostnad
+* Tänkvärt
+
+## 6 - Reserv
+* Förberelser för Kullen
+* 
+
