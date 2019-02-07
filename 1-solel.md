@@ -1,4 +1,4 @@
-# Solcell
+# 1 - Vi väljer solel
 * Energin från ljus blir el
 * Photovoltaic effect (PV)
 * En cell ger ca 0.5-0.6V
