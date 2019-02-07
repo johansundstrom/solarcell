@@ -37,7 +37,5 @@ Solarcell Tutorial
 * Kostnad
 * Tänkvärt
 
-## 6 - Reserv
+## 6 - På begäran
 * Förberelser för Kullen
-* 
-
