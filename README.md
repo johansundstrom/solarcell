@@ -1,7 +1,7 @@
 # solarcell
 Solarcell Tutorial
 
-## 1 - Vi väljer Solel
+<a href="1-solel.md">## 1 - Vi väljer Solel</a>
 * Uppmaningen - Argumenten
 * Ta kontroll
 * Solenergi
