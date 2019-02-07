@@ -19,10 +19,10 @@
 ### Ta kontroll
 * "Tagit tillbaka makten" (Ehrenmark: 2018)
 * Energikällor: 
-    Kärnkraft - klyver/slår ihop atomer
-    Olja och kol - fossilbränsle (växter och djur)
-    Biogas - växters omvandling av solenergi til kemi
-    Geotermisk - markvärme (bergvärme)
+    - Kärnkraft - klyver/slår ihop atomer
+    - Olja och kol - fossilbränsle (växter och djur)
+    - Biogas - växters omvandling av solenergi til kemi
+    - Geotermisk - markvärme (bergvärme)
  
  * Energin omvandlas till el och distribueras 
 
