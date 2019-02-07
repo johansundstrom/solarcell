@@ -71,9 +71,9 @@
 
 ### Bidrag, ROT, bygglov och elsäkerhet
 * Anläggning på icke näringsverksamhet kallas mikroproduktionsanläggning (sol/vind/vatten)
-* ROT - Rotavdrag, max 30%,	50 000kr/år/person
+* ROT (skatteverket.se) - Rotavdrag, max 30%,	50 000kr/år/person
 * Elleverantören köper el som inte konsumerats
-* Ett elcertifikat för varje megawattimme som du producerar - kan säljas - SÖK
-* Solcellsstöd - upp till 30 % av investeringskostnaden 
+* Elcertifikat (Energimyndigheten) - ger ett elcertifikat för varje megawattimme som du producerar - kan säljas
+* Solcellsstöd (boverket.se) - upp till 30 % av investeringskostnaden 
 * Skattereduktion - Max 5000 kilowattimmar (x 0.6 = 3000kr)
-* 
+* Nätägaren (EEM) - 
