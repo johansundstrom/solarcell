@@ -1,3 +1,4 @@
+<a href="README.md"><< tillbaka</a>
 # 1 - Vi väljer solel
 * Energin från ljus blir el
 * Photovoltaic effect (PV)
