@@ -11,7 +11,8 @@ Solarcell Tutorial
 * Bidrag, bygglov och elsäkerhet
 * Kostnad/förtjänst
 
-## 2 - Vi optimerar solceller
+<h1><a href="2-optimera.md">2 - Vi optimerar solceller</a></h1>
+
 * Förluster
 * Byggfel
 * Lär av andra
