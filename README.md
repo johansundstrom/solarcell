@@ -19,7 +19,7 @@ Solarcell Tutorial
 * Oberoende information
 * Tänk på...
 
-<h1><a href="2-rakna.md">3 - Vi räknar</a></h1>
+<h1><a href="3-rakna.md">3 - Vi räknar</a></h1>
 
 * Effekt
 * Energi
