@@ -22,10 +22,21 @@
 * Oftast Wh i dessa sammanhang
 
 ### El-priser
+* Elhandelspriset styrs av tillgång och efterfrågan
 * Kostnader
-  - Elnät - huvudsäkring (statligt reglerad)
-  - Elcertifikatsavgift
+  - Elnät - huvudsäkring (statligt reglerad) - påverkbar
+  - Elhandelskostnad - adm avg
+  - Elhandel - påverkbar
+  - Elcertifikatsavgift 
+    - 1 maj 2003 
+    - ett cert/MWh 
+    - pris avgörs av tillgång/efterfrågan 
+    - ca 3 öre/kWh
   - Energiskatt
   - Moms
+* Avtal
+  - Rörligt - följer Nord pools
+  - Fast - 3m - 10y
+  - Timpris - från 1 oktober 2012
 
 ### Vinst
