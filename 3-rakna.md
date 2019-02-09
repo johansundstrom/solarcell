@@ -2,3 +2,9 @@
 
 # 3 - Vi räknar
 
+## Agenda
+
+* Effekt
+* Energi
+* El-priser
+* Vinst
