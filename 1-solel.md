@@ -3,7 +3,10 @@
 
 ## Agenda
 
-* Uppmaningen - Argumenten
+* Uppmaningen 
+    - Två starka argument
+        - Ekonomi
+        - Miljön
 * Ta kontroll
 * Solenergi
 * Anläggningen
