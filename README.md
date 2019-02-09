@@ -26,7 +26,7 @@ Solarcell Tutorial
 * El-priser
 * Vinst
 
-## 4 - Vi bygger 
+<h1><a href="4-bygger.md">4 - Vi bygger</a></h1> 
 * Analysera dina behov
 * Din anläggning 
 * Räkna hem investeringen
