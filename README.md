@@ -19,7 +19,8 @@ Solarcell Tutorial
 * Oberoende information
 * Tänk på...
 
-## 3 - Vi räknar
+<h1><a href="2-rakna.md">3 - Vi räknar</a></h1>
+
 * Effekt
 * Energi
 * El-priser
