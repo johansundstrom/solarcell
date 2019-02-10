@@ -1,5 +1,4 @@
-# solarcell
-Solarcell Tutorial
+# Solarcell tutorial
 
 <h1><a href="1-solel.md">1 - Vi väljer Solel</a></h1>
 
