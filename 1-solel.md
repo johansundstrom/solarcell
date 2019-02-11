@@ -3,11 +3,7 @@
 
 ## Agenda
 
-* Uppmaningen 
-    - Två starka argument
-        - Ekonomi
-        - Miljö
-* Sök bidraget nu!!!
+* Uppmaningen
 * Ta kontroll
 * Solenergi
 * Anläggningen
@@ -15,7 +11,12 @@
 * Bidrag, ROT, bygglov och elsäkerhet
 * Kostnad/förtjänst
 
-### Uppmaningen - Argumenten
+### Uppmaningen
+* VÄLJ SOLCELLER!!!
+    - Två oslagbara argument
+        - Privatekonomi
+        - Din miljöpåverkan
+* Sök bidraget nu!!!
 * Bestäm dig för solceller idag!
 * Kapital vs konsumtion
 * Förlustaffären
