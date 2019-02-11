@@ -29,8 +29,8 @@
     - Geotermisk - markvärme (bergvärme)
  
 * Energin omvandlas till el och distribueras 
-* Vi är i händerna på Internationella bolag
-* Vi vill ta och ha kontroll
+* Internationella elbolag
+* Ha och ta kontroll
  
 ### Solenergi
 * Solens värme och dess fotoner
@@ -43,13 +43,13 @@
 * Spänning mäts i Volt och betecknas U
 * Jämför med vatten
 * En cell ger ca 0.47-0.6V
-* Monokristallina (mörk) är mer effektiva men dyrare (ca 15-20% effektivitet)
+* Solpanel är flera celler i en ram - 28Vp
+* Monokristallina (mörk) - mer effektiva - dyrare (ca 15-20% effektivitet)
 * Polykristallina (blå) ca 13-16% verklningsgrad
 * Verkningsgrad - ca 15-20% blir el (fotoner)
-* Tunnfilm (flexibel) halva verkningsgraden
+* Tunnfilm (flexibel) - 7-7% verkningsgrad
 * Vid högre temperatur minskar effektiviteten
 * Åldras - 25 år (75-80% verkningsgrad från ny)
-* Solpanel är flera celler i en ram
 
 ### Anläggningen
 * Solpaneler
