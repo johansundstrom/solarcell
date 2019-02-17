@@ -39,6 +39,7 @@
     - Vaccumrörssolfångare - tryck/rör i rör/kollector - vattenvärme
       (Evacuated tube collector (ETC))
     - Solpanel - fotovoltaisk effekt - elektrisk effekt
+    
 * Fotovoltaisk effekt - PN, spärrskikt, fotoner, ökad potential
 * Photovoltaic effect (PV)
 * Energin från ljus blir el
