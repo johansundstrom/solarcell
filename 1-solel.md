@@ -3,13 +3,13 @@
 
 ## Agenda
 
-* Uppmaningen
-* Ta kontroll
-* Solenergi
-* Anläggningen
-* El-konsumtion
-* Bidrag, ROT, bygglov och elsäkerhet
-* Kostnad/förtjänst
+1. Uppmaningen
+2. Ta kontroll
+2. Solenergi
+2. Anläggningen
+2. El-konsumtion
+2. Bidrag, ROT, bygglov och elsäkerhet
+2. Kostnad/förtjänst
 
 ### Uppmaningen
 * VÄLJ SOLCELLER!!!
