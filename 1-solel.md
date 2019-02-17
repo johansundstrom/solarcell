@@ -11,7 +11,7 @@
 2. Bidrag, ROT, bygglov och elsäkerhet
 2. Kostnad/förtjänst
 
-### 1. Uppmaningen
+## 1. Uppmaningen
 * SOLCELLER!!!
     - Oslagbara argument
         - Privatekonomi
@@ -21,7 +21,7 @@
 * Kapital vs konsumtion
 * Förlustaffären??
 
-### 2. Ta kontroll
+## 2. Ta kontroll
 * Energikällor: 
     - Kärnkraft - klyva/slå ihop atomer
     - Olja och kol - fossilbränsle (växter och djur)
@@ -33,28 +33,27 @@
 * "Ta tillbaka makten" (Ehrenmark: 2018)
 * Ha och ta kontroll
  
-### 3. Solenergi
+## 3. Solenergi
 * Solens värme och fotoner
     - Solens strålar absorberas mot svart - vattenvärme
     - Vaccumrörssolfångare - tryck/rör i rör/kollector - vattenvärme
       (Evacuated tube collector (ETC))
     - Solpanel - fotovoltaisk effekt - elektrisk effekt
     
-* Fotovoltaisk effekt - PN, spärrskikt, fotoner, ökad potential
-* Photovoltaic effect (PV)
-* Energin från ljus blir el
+* Fotovoltaisk effekt (PV) - PN, spärrskikt, ökad potential, fotoner
+* Energin från ljus blir elektrisk ström
 * Spänning mäts i Volt och betecknas U
 * Jämför med vatten
 * En cell ger ca 0.47-0.6V
 * Solpanel är flera celler i en ram - 28Vp
-* Monokristallina (mörk) - mer effektiva - dyrare (ca 15-20% effektivitet)
-* Polykristallina (blå) ca 13-16% verklningsgrad
+* Monokristallina (mörk) - renare, mer effektiva - dyrare (ca 15-20% effektivitet)
+* Polykristallina (blå) -  blandade - ca 13-16% verklningsgrad
 * Verkningsgrad - ca 15-20% blir el (fotoner)
-* Tunnfilm (flexibel) - 7-7% verkningsgrad
+* Tunnfilm (flexibel) - 7-9% verkningsgrad
 * Vid högre temperatur minskar effektiviteten
 * Åldras - 25 år (75-80% verkningsgrad från ny)
 
-### 4. Anläggningen
+## 4. Anläggningen
 * Solpaneler
 * Fästen
 * Bypassdioder
@@ -66,7 +65,7 @@
 * Energisensor
 * kablar
 
-### 5. El-konsumtion
+## 5. El-konsumtion
 * LED
 * Timer
 * Övervakning
@@ -76,7 +75,7 @@
 * Elskling
 * Min resa: 30MWh/år till 8 (1kWh = 1kr)
 
-### 6. Bidrag, ROT, bygglov och elsäkerhet
+## 6. Bidrag, ROT, bygglov och elsäkerhet
 * Anläggning på icke näringsverksamhet kallas mikroproduktionsanläggning (sol/vind/vatten)
 * ROT (skatteverket.se) - Rotavdrag, max 30%,	50 000kr/år/person
 * Elleverantören köper överproduktion
@@ -87,7 +86,7 @@
 * Bygglov - 
 * 
 
-### 7. Kostnad/förtjänst
+## 7. Kostnad/förtjänst
 * Hårdvaran
 * Montering
 * Förtjänsten
