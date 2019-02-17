@@ -10,7 +10,7 @@
 * Begär offert
 * Testinköp
 
-### Analysera dina behov
+## Analysera dina behov
 * Glödtråd bort - LED in!
 * Timers
 * Smarta lampor
@@ -19,7 +19,7 @@
 * Månadsförbrukning
 * Logga in på elleverantörens "mina sidor"
 
-### Din anläggning
+## Din anläggning
 * <30 000kWh/år
 * Matcha dina behov
 * https://www.solcellskollen.se/rakna-pa-solceller (enkel)
@@ -27,3 +27,12 @@
 * https://www.mdh.se/forskning/inriktningar/framtidens-energi/investeringskalkyl-for-solceller-1.88119
 * https://www.e2b2.se/library/2705/slutrapport-investeringskalkyl-foer-solceller.pdf
 * Skuggning
+
+## Testinköp
+* Lon/Lat
+* System loss: 5%
+* Slope: 27 grader
+* Azimuth: 55 grader
+* PV installed: 10.26 kWp
+* 1680 x 990 x 40 mm (+/-2 mm) 12x3 (20m x 3m)
+
