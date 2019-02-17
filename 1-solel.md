@@ -11,32 +11,33 @@
 2. Bidrag, ROT, bygglov och elsäkerhet
 2. Kostnad/förtjänst
 
-### Uppmaningen
-* VÄLJ SOLCELLER!!!
-    - Två oslagbara argument
+### 1. Uppmaningen
+* SOLCELLER!!!
+    - Oslagbara argument
         - Privatekonomi
         - Din miljöpåverkan
-* Sök bidraget nu!!!
 * Bestäm dig för solceller idag!
+* Sök bidraget nu!!!
 * Kapital vs konsumtion
-* Förlustaffären
+* Förlustaffären??
 
-### Ta kontroll
-* "Tagit tillbaka makten" (Ehrenmark: 2018)
+### 2. Ta kontroll
 * Energikällor: 
-    - Kärnkraft - klyver/slår ihop atomer
+    - Kärnkraft - klyva/slå ihop atomer
     - Olja och kol - fossilbränsle (växter och djur)
-    - Biogas - växters omvandling av solenergi til kemi
+    - Biogas - växters omvandling av solenergi till kemi
     - Geotermisk - markvärme (bergvärme)
  
-* Energin omvandlas till el och distribueras 
+* Energi omvandlas till el och distribueras 
 * Internationella elbolag
+* "Ta tillbaka makten" (Ehrenmark: 2018)
 * Ha och ta kontroll
  
-### Solenergi
-* Solens värme och dess fotoner
+### 3. Solenergi
+* Solens värme och fotoner
     - Solens strålar absorberas mot svart - vattenvärme
     - Vaccumrörssolfångare - tryck/rör i rör/kollector - vattenvärme
+      (Evacuated tube collector (ETC))
     - Solpanel - fotovoltaisk effekt - elektrisk effekt
 * Fotovoltaisk effekt - PN, spärrskikt, fotoner, ökad potential
 * Photovoltaic effect (PV)
@@ -52,7 +53,7 @@
 * Vid högre temperatur minskar effektiviteten
 * Åldras - 25 år (75-80% verkningsgrad från ny)
 
-### Anläggningen
+### 4. Anläggningen
 * Solpaneler
 * Fästen
 * Bypassdioder
@@ -64,7 +65,7 @@
 * Energisensor
 * kablar
 
-### El-konsumtion
+### 5. El-konsumtion
 * LED
 * Timer
 * Övervakning
@@ -74,7 +75,7 @@
 * Elskling
 * Min resa: 30MWh/år till 8 (1kWh = 1kr)
 
-### Bidrag, ROT, bygglov och elsäkerhet
+### 6. Bidrag, ROT, bygglov och elsäkerhet
 * Anläggning på icke näringsverksamhet kallas mikroproduktionsanläggning (sol/vind/vatten)
 * ROT (skatteverket.se) - Rotavdrag, max 30%,	50 000kr/år/person
 * Elleverantören köper överproduktion
@@ -85,7 +86,7 @@
 * Bygglov - 
 * 
 
-### Kostnad/förtjänst
+### 7. Kostnad/förtjänst
 * Hårdvaran
 * Montering
 * Förtjänsten
