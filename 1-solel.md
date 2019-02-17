@@ -18,6 +18,10 @@
         - Din miljöpåverkan
 * Bestäm dig för solceller idag!
 * Sök bidraget nu!!!
+    - Södermanlands län Sökt:1 734, Beviljat:957,  113 607 771 799 87 400 389
+    - Sök via Boverkets e-tjänst (ärendehanteringen)
+    - Länsstyrelsen handlägger
+    - Kommunernas Energi- och klimatrådgivare - rådgivare
 * Kapital vs konsumtion
 * Förlustaffären??
 
@@ -42,7 +46,9 @@
     
 * Fotovoltaisk effekt (PV) - PN, spärrskikt, ökad potential, fotoner
 * Energin från ljus blir elektrisk ström
+* Ström mäts i Ampere och betecknas I
 * Spänning mäts i Volt och betecknas U
+* Effekt mäts i Watt och betecknas P (P=UI)
 * Jämför med vatten
 * En cell ger ca 0.47-0.6V
 * Solpanel är flera celler i en ram - 28Vp
