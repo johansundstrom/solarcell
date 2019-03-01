@@ -13,14 +13,16 @@
 
 ## 1. Uppmaningen
 * SOLCELLER!!!
-    - Oslagbara argument
+    - Oslagbara argumenten
         - Privatekonomi
-        - Din miljöpåverkan
+        - Miljöpåverkan
 * Bestäm dig för solceller idag!
 * Sök bidraget nu!!!
-    - Södermanlands län Sökt:1 734, Beviljat:957,  113 607 771 799 87 400 389
+    - Södermanlands län: februari 2019 är det 13 000 ansökningar i kön
+      (https://www.lansstyrelsen.se/sodermanland/privat/bygga-och-bo/stod-till-husagare/stod-till-solceller.html)
     - Sök via Boverkets e-tjänst (ärendehanteringen)
-    - Länsstyrelsen handlägger
+      https://www.boverket.se/sv/bidrag--garantier/e-tjanster-for-bidrag-och-garantier/sok-bidrag-och-stod-elektroniskt1/
+    - Länsstyrelsen Sörmland handlägger
     - Kommunernas Energi- och klimatrådgivare - rådgivare
 * Kapital vs konsumtion
 * Förlustaffären??
