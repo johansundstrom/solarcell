@@ -25,7 +25,7 @@
     - Länsstyrelsen Sörmland handlägger
     - Kommunernas Energi- och klimatrådgivare - rådgivare
 * Kapital vs konsumtion
-* Förlustaffären??
+* Ett eget sparande
 
 ## 2. Ta kontroll
 * Energikällor: 
@@ -37,11 +37,11 @@
 * Energi omvandlas till el och distribueras 
 * Internationella elbolag
 * "Ta tillbaka makten" (Ehrenmark: 2018)
-* Ha och ta kontroll
+* Ha och ta kontroll!
  
 ## 3. Solenergi
-* Solens värme och fotoner
-    - Solens strålar absorberas mot svart - vattenvärme
+* Solljus och fotoner
+    - Solljus absorberas mot svart - vattenvärme
     - Vaccumrörssolfångare - tryck/rör i rör/kollector - vattenvärme
       (Evacuated tube collector (ETC))
     - Solpanel - fotovoltaisk effekt - elektrisk effekt
@@ -53,9 +53,10 @@
 * Effekt mäts i Watt och betecknas P (P=UI)
 * Jämför med vatten
 * En cell ger ca 0.47-0.6V
-* Solpanel är flera celler i en ram - 28Vp
+* Solpanel är flera celler i en ram - 28Vp (eak)
 * Monokristallina (mörk) - renare, mer effektiva - dyrare (ca 15-20% effektivitet)
-* Polykristallina (blå) -  blandade - ca 13-16% verklningsgrad
+* Polykristallina (blå) -  blandade - ca 13-17% verkningsgrad
+* 30 års hållbarhet
 * Verkningsgrad - ca 15-20% blir el (fotoner)
 * Tunnfilm (flexibel) - 7-9% verkningsgrad
 * Vid högre temperatur minskar effektiviteten
@@ -66,7 +67,7 @@
 * Fästen
 * Bypassdioder
 * Kablar
-* Kontakter
+* Kontakter (PV4-S) (industristandard)
 * Inverter
 * Brytare
 * Säkringar
@@ -91,8 +92,8 @@
 * Solcellsstöd (boverket.se) - upp till 30 % av investeringskostnaden 
 * Skattereduktion - Max 5000 kilowattimmar (x 0.6 = 3000kr)
 * Nätägaren (EEM?) - KlarAnmälan 
-* Bygglov - 
-* 
+* Bygglov - Bygglovsavdelningen (kommunen)
+* Anslutning mot nät - behörig elektriker
 
 ## 7. Kostnad/förtjänst
 * Hårdvaran
