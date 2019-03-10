@@ -11,7 +11,7 @@
 2. Bidrag, ROT, bygglov och elsäkerhet
 2. Kostnad/förtjänst
 
-## Presentation
+## Introduktion
 * Presentationer 
 * Studiecirkels innehåll/metod
 * WiFi - Facebookgrupp
