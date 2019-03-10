@@ -66,7 +66,7 @@
 ## 4. Anläggningen
 * Solpaneler
 * Fästen
-* Bypassdioder
+* Bypassdioder (parallellt över panel), blockingdioder (serie med string)
 * Kablar
 * Kontakter (PV4-S) (industristandard)
 * Inverter
@@ -74,6 +74,7 @@
 * Säkringar
 * Energisensor
 * kablar
+* Uppmärkning
 
 ## 5. El-konsumtion
 * LED
