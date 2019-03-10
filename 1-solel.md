@@ -11,9 +11,16 @@
 2. Bidrag, ROT, bygglov och elsäkerhet
 2. Kostnad/förtjänst
 
+## Presentation
+* Presentation 
+* Studiecirkels innehåll/metod
+* WiFi - Facebookgrupp
+* Tider - 18:30-21:00, 6 träffar, 4/4 inställt
+* Exit note
+
 ## 1. Uppmaningen
 * SOLCELLER!!!
-    - Oslagbara argumenten
+    - Oslagbara argument
         - Privatekonomi
         - Miljöpåverkan
 * Bestäm dig för solceller idag!
@@ -24,7 +31,7 @@
       https://www.boverket.se/sv/bidrag--garantier/e-tjanster-for-bidrag-och-garantier/sok-bidrag-och-stod-elektroniskt1/
     - Länsstyrelsen Sörmland handlägger
     - Kommunernas Energi- och klimatrådgivare - rådgivare
-* Kapital vs konsumtion
+* Kapital vs konsumtion, öka värdet
 * Ett eget sparande
 
 ## 2. Ta kontroll
