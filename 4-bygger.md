@@ -36,3 +36,12 @@
 * PV installed: 10.26 kWp
 * 1680 x 990 x 40 mm (+/-2 mm) 12x3 (20m x 3m)
 
+## Kriterier
+* Inverter
+  - Kvalitet och pålitlitget
+  - Service & Support
+  - Garanti
+  - Funktioner
+  - Övervakning 
+  - Pris
+* Solpaneler
