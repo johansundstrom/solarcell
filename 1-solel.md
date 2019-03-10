@@ -24,7 +24,8 @@
         - Privatekonomi
         - Miljöpåverkan
 * Bestäm dig för solceller idag!
-* Sök bidraget nu!!!
+* Sök bidraget nu!!! 
+- https://www.boverket.se/sv/bidrag--garantier/e-tjanster-for-bidrag-och-garantier/sok-bidrag-och-stod-elektroniskt1/
     - Södermanlands län: februari 2019 är det 13 000 ansökningar i kön
       (https://www.lansstyrelsen.se/sodermanland/privat/bygga-och-bo/stod-till-husagare/stod-till-solceller.html)
     - Sök via Boverkets e-tjänst (ärendehanteringen)
