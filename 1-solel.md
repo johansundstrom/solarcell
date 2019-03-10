@@ -12,7 +12,7 @@
 2. Kostnad/förtjänst
 
 ## Presentation
-* Presentation 
+* Presentationer 
 * Studiecirkels innehåll/metod
 * WiFi - Facebookgrupp
 * Tider - 18:30-21:00, 6 träffar, 4/4 inställt
@@ -31,6 +31,7 @@
       https://www.boverket.se/sv/bidrag--garantier/e-tjanster-for-bidrag-och-garantier/sok-bidrag-och-stod-elektroniskt1/
     - Länsstyrelsen Sörmland handlägger
     - Kommunernas Energi- och klimatrådgivare - rådgivare
+* Disruptive innovations
 * Kapital vs konsumtion, öka värdet
 * Ett eget sparande
 
