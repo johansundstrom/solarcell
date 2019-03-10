@@ -28,7 +28,7 @@
 * Ett eget sparande
 
 ## 2. Ta kontroll
-* Solenergi är sen pga att energibolagen inte äger solen - Ralph Nadar
+* Solenergi är sen pga att energibolagen inte äger solen - Ralph Nadar (advokat, kamp mot storföretag)
 * Energikällor: 
     - Kärnkraft - klyva/slå ihop atomer
     - Olja och kol - fossilbränsle (växter och djur)
