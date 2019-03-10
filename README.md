@@ -40,4 +40,4 @@
 * Tänkvärt
 
 ## 6 - På begäran
-* Förberelser för Kullen
+* Förberedelser för Kullen
